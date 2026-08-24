@@ -12,6 +12,9 @@ ROHIT-CODE is a free browser-based online compiler and code editor for programmi
 
 🌐 **Live Website:**  
 https://rohit-code-frontend.onrender.com/
+### 💻 Online C Compiler
+
+[Use ROHIT-CODE Online C Compiler](https://rohit-code-frontend.onrender.com/online-compiler/c/)
 
 ### 💻 Supported Languages
 
