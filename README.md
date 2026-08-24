@@ -46,7 +46,7 @@ https://jarvis-ai-assistant-vhpm.vercel.app/
 ### 8. Code With Rohit — Chat & Sheets
 
 🌐 **Live Website:**
-https://code-with-rohit-chat-sheets.vercel.app/
+https://code-with-rohit-cheat-sheets.vercel.app/ 
 
 ### 9. Rohit Prajapati — Portfolio
 
