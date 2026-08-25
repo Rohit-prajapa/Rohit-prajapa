@@ -26,7 +26,7 @@ https://bharatmart-1-veri.onrender.com/
 ### 4. Dictionary App
 
 🌐 **Live Website:**
-https://dictionary-app-kappa.vercel.app/
+https://dictonary-app-kappa.vercel.app/
 
 ### 5. Weather App
 
