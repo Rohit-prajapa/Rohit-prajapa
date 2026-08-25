@@ -58,6 +58,9 @@ https://rohit-prajapati-portfolio-five.vercel.app/
 🔗 **LinkedIn Profile:**
 https://www.linkedin.com/in/rohit-prajapati-38b1762a2/
 
+11. TripMate: A Trust-Based Travel Companion 
+ https://tripmate-app-mauve.vercel.app/login
+
 ---
 
 ## 💻 ROHIT-CODE — Online Compiler & Code Editor
