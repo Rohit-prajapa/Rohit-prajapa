@@ -18,7 +18,7 @@ https://rohit-code-frontend.onrender.com/
 🌐 **Live Website:**
 https://real-time-chat-application-1rq5.onrender.com/
 
-### 3. Bharat Mart — E-Commerce Website
+### 3. NexCart — E-Commerce Website
 
 🌐 **Live Website:**
 https://bharatmart-1-veri.onrender.com/
