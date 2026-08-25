@@ -21,7 +21,7 @@ https://real-time-chat-application-1rq5.onrender.com/
 ### 3. Bharat Mart — E-Commerce Website
 
 🌐 **Live Website:**
-https://bharat-mart-9qed.vercel.app/
+https://bharatmart-1-veri.onrender.com/
 
 ### 4. Dictionary App
 
