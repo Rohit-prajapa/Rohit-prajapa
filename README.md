@@ -8,58 +8,97 @@ I am a Computer Science Engineering student interested in software development, 
 
 ## 🚀 My Projects & Profiles
 
-### 1. ROHIT-CODE — Online Compiler & Code Editor
+### 1. InterviewPrep AI — AI-Powered Interview Preparation Platform
 
 🌐 **Live Website:**
-https://rohit-code-frontend.onrender.com/
+[https://interview-prep-ai-oatf.vercel.app/](https://interview-prep-ai-oatf.vercel.app/?utm_source=chatgpt.com)
 
-### 2. Real-Time Chat Application
+AI-powered platform for interview preparation with AI-generated questions, answer evaluation, adaptive interviews, analytics, and preparation plans.
 
-🌐 **Live Website:**
-https://real-time-chat-application-1rg5.onrender.com/
+**Features:**
 
-### 3. NexCart — E-Commerce Website
+* AI-generated interview questions
+* AI answer evaluation
+* Adaptive AI interviews
+* Technical, HR, behavioral & mixed modes
+* Interview history
+* Performance analytics
+* AI preparation plans
+* JWT authentication
+* MongoDB database
 
-🌐 **Live Website:**
-https://bharatmart-1-veri.onrender.com/
+**Technologies:**
+React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Gemini AI, REST API
 
-### 4. Dictionary App
+---
 
-🌐 **Live Website:**
-https://dictonary-app-kappa.vercel.app/
-
-### 5. Weather App
-
-🌐 **Live Website:**
-https://weather-app-delta-beryl-93.vercel.app/
-
-### 6. Email Validator
-
-🌐 **Live Website:**
-https://emails-validator-roan.vercel.app/
-
-### 7. JARVIS AI Assistant
+### 2. NexCart — E-Commerce Website
 
 🌐 **Live Website:**
-https://jarvis-ai-assistant-vhpm.vercel.app/
+[https://bharatmart-1-veri.onrender.com/](https://bharatmart-1-veri.onrender.com/?utm_source=chatgpt.com)
 
-### 8. Code With Rohit — Chat & Sheets
+---
+
+### 3. TripMate — A Trust-Based Travel Companion
 
 🌐 **Live Website:**
-https://code-with-rohit-cheat-sheets.vercel.app/ 
+[https://tripmate-app-mauve.vercel.app/login](https://tripmate-app-mauve.vercel.app/login?utm_source=chatgpt.com)
 
-### 9. Rohit Prajapati — Portfolio
+---
+
+### 4. JARVIS AI Assistant
+
+🌐 **Live Website:**
+[https://jarvis-ai-assistant-vhpm.vercel.app/](https://jarvis-ai-assistant-vhpm.vercel.app/?utm_source=chatgpt.com)
+
+---
+
+### 5. ROHIT-CODE — Online Compiler & Code Editor
+
+🌐 **Live Website:**
+[https://rohit-code-frontend.onrender.com/](https://rohit-code-frontend.onrender.com/?utm_source=chatgpt.com)
+
+---
+
+### 6. Real-Time Chat Application
+
+🌐 **Live Website:**
+[https://real-time-chat-application-1rg5.onrender.com/](https://real-time-chat-application-1rg5.onrender.com/?utm_source=chatgpt.com)
+
+---
+
+### 7. Dictionary App
+
+🌐 **Live Website:**
+[https://dictonary-app-kappa.vercel.app/](https://dictonary-app-kappa.vercel.app/?utm_source=chatgpt.com)
+
+---
+
+### 8. Weather App
+
+🌐 **Live Website:**
+[https://weather-app-delta-beryl-93.vercel.app/](https://weather-app-delta-beryl-93.vercel.app/?utm_source=chatgpt.com)
+
+---
+
+### 9. Email Validator
+
+🌐 **Live Website:**
+[https://emails-validator-roan.vercel.app/](https://emails-validator-roan.vercel.app/?utm_source=chatgpt.com)
+
+---
+
+### 10. Code With Rohit — Chat & Sheets
+
+🌐 **Live Website:**
+[https://code-with-rohit-cheat-sheets.vercel.app/](https://code-with-rohit-cheat-sheets.vercel.app/?utm_source=chatgpt.com)
+
+---
+
+### 11. Rohit Prajapati — Portfolio
 
 🌐 **Portfolio:**
-https://rohit-prajapati-portfolio-five.vercel.app/
-
-### 10. LinkedIn
-
-🔗 **LinkedIn Profile:**
-https://www.linkedin.com/in/rohit-prajapati-38b1762a2/
-
-11. TripMate: A Trust-Based Travel Companion 
- https://tripmate-app-mauve.vercel.app/login
+[https://rohit-prajapati-portfolio-five.vercel.app/](https://rohit-prajapati-portfolio-five.vercel.app/?utm_source=chatgpt.com)
 
 ---
 
@@ -68,12 +107,11 @@ https://www.linkedin.com/in/rohit-prajapati-38b1762a2/
 ROHIT-CODE is a free browser-based online compiler and code editor for programming practice.
 
 🌐 **Live Website:**
-https://rohit-code-frontend.onrender.com/
+[https://rohit-code-frontend.onrender.com/](https://rohit-code-frontend.onrender.com/?utm_source=chatgpt.com)
 
 ### 💻 Online Compiler
 
-**Online Compiler:**
-https://rohit-code-frontend.onrender.com/online-compiler/
+[https://rohit-code-frontend.onrender.com/online-compiler/](https://rohit-code-frontend.onrender.com/online-compiler/?utm_source=chatgpt.com)
 
 ### 💻 Supported Languages
 
@@ -89,31 +127,31 @@ https://rohit-code-frontend.onrender.com/online-compiler/
 
 #### C Compiler
 
-https://rohit-code-frontend.onrender.com/online-compiler/c/
+[C Compiler](https://rohit-code-frontend.onrender.com/online-compiler/c/?utm_source=chatgpt.com)
 
 #### C++ Compiler
 
-https://rohit-code-frontend.onrender.com/online-compiler/cpp/
+[C++ Compiler](https://rohit-code-frontend.onrender.com/online-compiler/cpp/?utm_source=chatgpt.com)
 
 #### Java Compiler
 
-https://rohit-code-frontend.onrender.com/online-compiler/java/
+[Java Compiler](https://rohit-code-frontend.onrender.com/online-compiler/java/?utm_source=chatgpt.com)
 
 #### Python Compiler
 
-https://rohit-code-frontend.onrender.com/online-compiler/python/
+[Python Compiler](https://rohit-code-frontend.onrender.com/online-compiler/python/?utm_source=chatgpt.com)
 
 #### JavaScript Compiler
 
-https://rohit-code-frontend.onrender.com/online-compiler/javascript/
+[JavaScript Compiler](https://rohit-code-frontend.onrender.com/online-compiler/javascript/?utm_source=chatgpt.com)
 
 #### PHP Compiler
 
-https://rohit-code-frontend.onrender.com/online-compiler/php/
+[PHP Compiler](https://rohit-code-frontend.onrender.com/online-compiler/php/?utm_source=chatgpt.com)
 
 #### Rust Compiler
 
-https://rohit-code-frontend.onrender.com/online-compiler/rust/
+[Rust Compiler](https://rohit-code-frontend.onrender.com/online-compiler/rust/?utm_source=chatgpt.com)
 
 ---
 
@@ -124,10 +162,13 @@ https://rohit-code-frontend.onrender.com/online-compiler/rust/
 * JavaScript
 * Node.js
 * Express.js
-* Docker
+* MongoDB
 * REST API
+* Docker
 * Git
 * GitHub
+* Gemini AI
+* JWT Authentication
 
 ---
 
@@ -158,8 +199,7 @@ I regularly practice Data Structures and Algorithms and solve programming proble
 
 ### 🧩 LeetCode
 
-🔗 **LeetCode Profile:**
-https://leetcode.com/
+[LeetCode Profile](https://leetcode.com/?utm_source=chatgpt.com)
 
 ---
 
@@ -167,44 +207,42 @@ https://leetcode.com/
 
 ### LinkedIn
 
-https://www.linkedin.com/in/rohit-prajapati-38b1762a2/
+[LinkedIn Profile](https://www.linkedin.com/in/rohit-prajapati-38b1762a2/?utm_source=chatgpt.com)
 
 ### Portfolio
 
-https://rohit-prajapati-portfolio-five.vercel.app/
+[Portfolio](https://rohit-prajapati-portfolio-five.vercel.app/?utm_source=chatgpt.com)
 
 ### GitHub
 
-https://github.com/
+[GitHub](https://github.com/?utm_source=chatgpt.com)
 
 ---
 
-## 🚀 Featured Project
+## ⭐ Featured Projects
 
-### ROHIT-CODE — Online Compiler & Code Editor
+### InterviewPrep AI
 
-ROHIT-CODE provides a browser-based coding environment where users can write, compile, and execute programs directly from their browser.
+[Try InterviewPrep AI](https://interview-prep-ai-oatf.vercel.app/?utm_source=chatgpt.com)
 
-**Features:**
+### NexCart
 
-* Online code editor
-* Multiple programming languages
-* C compiler
-* C++ compiler
-* Java compiler
-* Python compiler
-* JavaScript compiler
-* PHP compiler
-* Rust compiler
-* Docker-based code execution
-* REST API
-* Interactive programming environment
+[Try NexCart](https://bharatmart-1-veri.onrender.com/?utm_source=chatgpt.com)
 
-🌐 **Try ROHIT-CODE:**
-https://rohit-code-frontend.onrender.com/
+### TripMate
+
+[Try TripMate](https://tripmate-app-mauve.vercel.app/login?utm_source=chatgpt.com)
+
+### JARVIS AI
+
+[Try JARVIS AI](https://jarvis-ai-assistant-vhpm.vercel.app/?utm_source=chatgpt.com)
+
+### ROHIT-CODE
+
+[Try ROHIT-CODE](https://rohit-code-frontend.onrender.com/?utm_source=chatgpt.com)
 
 ---
 
 ⭐ **Thanks for visiting my profile!**
 
-💻 Keep Coding | 🚀 Keep Building | 📚 Keep Learning
+💻 **Keep Coding | 🚀 Keep Building | 📚 Keep Learning**
