@@ -35,7 +35,7 @@ React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Gemini AI, REST AP
 ### 2. NexCart — E-Commerce Website
 
 🌐 **Live Website:**
-[https://bharatmart-1-veri.onrender.com/](https://bharatmart-1-veri.onrender.com/?utm_source=chatgpt.com)
+[https://bharatmart-1-veri.onrender.com/](https://bharatmart-1-veri.onrender.com)
 
 ---
 
