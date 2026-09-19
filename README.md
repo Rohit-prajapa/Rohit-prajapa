@@ -63,7 +63,7 @@ React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Gemini AI, REST AP
 ### 6. Real-Time Chat Application
 
 🌐 **Live Website:**
-[https://real-time-chat-application-1rg5.onrender.com/](https://real-time-chat-application-1rg5.onrender.com/?utm_source=chatgpt.com)
+[https://real-time-chat-application-1rg5.onrender.com/](https://real-time-chat-application-1rg5.onrender.com)
 
 ---
 
