@@ -101,6 +101,8 @@ React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Gemini AI, REST AP
 [https://rohit-prajapati-portfolio-five.vercel.app/](https://rohit-prajapati-portfolio-five.vercel.app/?utm_source=chatgpt.com)
 
 ---
+12---TIC-TAK-TOE GAME
+https://tic-tak-toe-game-pi.vercel.app/
 
 ## 💻 ROHIT-CODE — Online Compiler & Code Editor
 
