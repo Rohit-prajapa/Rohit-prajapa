@@ -38,6 +38,22 @@ React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Gemini AI, REST AP
 [https://bharatmart-1-veri.onrender.com/](https://bharatmart-1-veri.onrender.com)
 
 ---
+### 2. Truth Lens — BERT-Based Fake News Detection
+
+🌐 **Live Website:**
+https://truth-lens-bert-based-fake-news-and.vercel.app/
+
+An AI-powered fake news detection platform that uses BERT-based NLP techniques to analyze news content and identify potentially misleading or fake information.
+
+**Features:**
+- BERT-based fake news detection
+- Natural Language Processing (NLP)
+- News content analysis
+- AI-powered prediction
+- User-friendly interface
+
+**Technologies:**
+Python, BERT, NLP, Machine Learning, React, Vercel
 
 ### 3. TripMate — A Trust-Based Travel Companion
 
